@@ -1,4 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
 
+    <item
+        android:id="@+id/async_item"
+        android:title="AsyncTask" />
+    <item
+        android:id="@+id/example_item"
+        android:title="Item" />
+    <item
+        android:id="@+id/example_item2"
+        android:title="Item" />
 </menu>
